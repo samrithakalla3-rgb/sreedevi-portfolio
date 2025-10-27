@@ -1,0 +1,120 @@
+{
+  "personalInfo": {
+    "name": "Sreedevi Kalla",
+    "title": "Health Data Science Graduate | Data Analyst | EHR Systems",
+    "phone": "+1 (980)-298-9693",
+    "email": "kallasreedevi99@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/kalla-sreedevi3",
+    "location": "St. Louis, MO, USA",
+    "tagline": "Health Data Science Graduate | Data Analyst | EHR Systems",
+    "summary": "Graduate student in Health Data Science with hands-on experience in healthcare informatics and public health analytics. Skilled in developing predictive models and visual dashboards to improve clinical decision-making. Experienced with EHR systems such as Epic and Meditech, and proficient in Python, SQL, and Tableau for data analysis and reporting. Seeking to leverage academic knowledge and project experience in a challenging Health Data Analyst or Healthcare Data Scientist role."
+  },
+  "education": [
+    {
+      "id": 1,
+      "degree": "Master of Science in Health Data Science",
+      "field": "Health Data Science",
+      "institution": "Saint Louis University",
+      "location": "St. Louis, MO, USA",
+      "startDate": "2023",
+      "endDate": "Aug 2025",
+      "highlights": [
+        "Healthcare Informatics",
+        "Predictive Modeling",
+        "Public Health Analytics",
+        "Machine Learning for Healthcare"
+      ]
+    },
+    {
+      "id": 2,
+      "degree": "Bachelor of Science",
+      "field": "Genetics, Microbiology, and Chemistry",
+      "institution": "Osmania University",
+      "location": "Hyderabad, India",
+      "startDate": "2017",
+      "endDate": "May 2021",
+      "highlights": [
+        "Life Sciences",
+        "Laboratory Research",
+        "Biochemistry",
+        "Molecular Biology"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Faxing Executive – Utilization Review",
+      "company": "PrimEra Medical Technologies",
+      "location": "Hyderabad, India",
+      "startDate": "Apr 2022",
+      "endDate": "Aug 2023",
+      "description": "Extracted and compiled clinical documentation from Epic and Meditech for utilization review packets supporting insurance authorizations.",
+      "responsibilities": [
+        "Extracted and compiled clinical documentation from Epic and Meditech for utilization review packets supporting insurance authorizations",
+        "Submitted clinical data via RightFax, eFax, and payer portals (Availity, Navi Net); tracked responses and assisted in appeals",
+        "Collaborated with utilization review nurses and revenue cycle teams to ensure timely approvals and reduced claim denials",
+        "Tools: Epic, Meditech, RightFax, Concord Fax, Excel, Smartsheet"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Disease Prediction Using Symptoms",
+      "type": "Group Project",
+      "description": "Developed ML models (Logistic Regression, Random Forest) to predict 42 diseases using 132 symptoms with optimized performance through parallelization and feature selection.",
+      "technologies": ["Python", "Machine Learning", "Logistic Regression", "Random Forest", "Dask", "Genetic Algorithm", "Data Visualization"],
+      "features": [
+        "Developed ML models (Logistic Regression, Random Forest) to predict 42 diseases using 132 symptoms",
+        "Optimized performance through Dask-based parallelization and Genetic Algorithm feature selection",
+        "Designed data visualizations for symptom-disease relationships to improve interpretability"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Drug Poisoning Mortality Prediction",
+      "type": "ML Project",
+      "description": "Built and compared classification models (KNN, SVM, Naïve Bayes, Random Forest) using U.S. county-level mortality data with visual dashboards for demographic analysis.",
+      "technologies": ["Python", "KNN", "SVM", "Naïve Bayes", "Random Forest", "Data Visualization", "Pandas"],
+      "features": [
+        "Built and compared classification models (KNN, SVM, Naïve Bayes, Random Forest) using U.S. county-level mortality data",
+        "Created visual dashboards to analyze demographic and regional disparities using Python visualization libraries"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pediatric Respiratory Admission Forecasting",
+      "type": "Capstone Project",
+      "description": "Predicted RSV/Influenza visit outcomes (ED vs inpatient) using XGBoost and Random Forest with feature engineering and seasonal trend analysis.",
+      "technologies": ["Python", "XGBoost", "Random Forest", "Feature Engineering", "Time Series Analysis", "Healthcare Analytics"],
+      "features": [
+        "Predicted RSV/Influenza visit outcomes (ED vs inpatient) using XGBoost and Random Forest",
+        "Performed feature engineering, seasonal trend analysis, and temporal data transformations to improve forecasting accuracy",
+        "Identified seasonal and temporal patterns, achieving 56.7% accuracy and supporting hospital resource planning"
+      ]
+    }
+  ],
+  "skills": {
+    "programming": ["Python", "SQL"],
+    "visualization": ["Tableau", "Looker Studio", "Google Colab", "Jupyter"],
+    "ehrSystems": ["Epic", "Meditech", "RightFax", "Concord Fax", "Availity"],
+    "tools": ["Excel", "Smartsheet", "MS Office", "Google Suite"],
+    "specializations": [
+      "Data Cleaning",
+      "Feature Engineering",
+      "Predictive Modeling",
+      "Dashboard Creation",
+      "EHR Data Extraction",
+      "Health Informatics"
+    ]
+  },
+  "volunteering": [
+    {
+      "id": 1,
+      "organization": "DOBARA",
+      "location": "Hyderabad, India",
+      "cause": "Elder wellness & community engagement"
+    }
+  ]
+}
