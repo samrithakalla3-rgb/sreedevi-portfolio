@@ -11,7 +11,12 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git remote add:*)",
-      "Bash(git branch:*)"
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git remote remove:*)",
+      "Bash(git checkout:*)",
+      "Bash(npm run deploy:*)"
     ],
     "deny": [],
     "ask": []
